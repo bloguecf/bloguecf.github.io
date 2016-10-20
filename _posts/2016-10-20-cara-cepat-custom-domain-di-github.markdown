@@ -8,7 +8,7 @@ permalink: cara-cepat-custom-domain-di-github
 ---
 Judulnya sih sebenarnya gimana cara agar custom domain di github propagasinya ga sampai 5 menit. Ini adalah pengalaman untuk [blog ini][1]
 
-Dua hari yang lalu saya ada ide untuk domain baru yang gratisan menggunakan [freenom][http://freenom.com]
+Dua hari yang lalu saya ada ide untuk domain baru yang gratisan menggunakan [freenom][5]
 
 Ide domainnya blogue, ternyata yang free cuma ada blogue.cf yawdah langsung ane daftarkan aja. Setelah itu nameservernya langsung saya update agar konek ke DNS cloudflare.
 
@@ -38,3 +38,4 @@ Setelah setting selesai tinggal akses domain anda, jika propagasi dari registrar
 [2]: http://eka.gdn/masalah-propagasi-domain-gdn
 [3]: http://tinypress.co
 [4]: http://blogue.cf/posting-pertama
+[5]: http://freenom.com
